@@ -12,7 +12,7 @@ In Block 6 (line 2):
 - DATA_PATH = "/Users/lawsonlevin/ML/project3/CNN"
 
 
-Furthermore, in blocks 9 and 10. We have provided code to classify your own images. Ensure the last lines in each of these blocks (the function calls) contain an appropriate path to your image.
+Furthermore, in blocks 9 and 10. We have provided code to classify your own images. Ensure the last lines in each of these blocks (the function calls) contain an appropriate path to your image(s).
 
 In Block 9:
 predict_single_image(model, r"C:\Users\Alex\Pictures\Screenshots\Screenshot 2025-11-14 153441.png", DEVICE)
